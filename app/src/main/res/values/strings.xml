@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity e Intent</string>
+    <string name="action_settings">Web View</string>
+    <string name="ola">Olá, seja bem vindo!</string>
+
+    <string name="tx_abrirBrowser">Abrir Browser</string>
+    <string name="tx_simularChamada">Simular Chamada</string>
+    <string name="tx_entradaTexto">Entrada de Texto e Alerta</string>
+    <string name="tx_parametro">Parâmetro</string>
+    <string name="tx_parametroRecebido">O parâmetro recebido da outra tela é</string>
+</resources>
